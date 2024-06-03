@@ -1,0 +1,11 @@
+html,body{
+    background-color:#dbd7d2;
+}
+
+.login-logo-image{
+    width: 100%;
+}
+
+.login-form{
+    width: 92%;
+}
